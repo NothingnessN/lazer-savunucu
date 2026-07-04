@@ -1,0 +1,17 @@
+{
+  "name": "laser-deflector",
+  "version": "1.0.0",
+  "description": "Laser Deflector: Dual-Directional Neon Rhythm",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel index.html --port 1234",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "phaser": "^3.70.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  }
+}
