@@ -14,7 +14,7 @@
 
 **Lazer Savunucu**, ekranın ortasında konumlanan yatay bir bariyeri kontrol ettiğiniz, hızlı tempolu bir refleks ve ritim oyunudur. Yukarıdan ve aşağıdan gelen renkli lazer toplarını doğru renkteki bariyerle yakalayarak puan kazanın; yanlış eşleşmede can kaybedin. Skorunuz arttıkça oyun hızlanır, kombo zincirleri kurabilir ve **Ateş Modu (Fever Mode)** ile geçici bir güç patlaması yaşayabilirsiniz.
 
-Oyun tamamen tarayıcıda çalışır; ilerlemeniz `localStorage` ile cihazınızda saklanır. Türkçe ve İngilizce dil desteği mevcuttur.
+Oyun tamamen tarayıcıda çalışır; ilerlemeniz `localStorage` ile cihazınızda saklanır. Türkçe ve İngilizce dil desteği mevcuttur. Android cihazlar içinde uyumludur
 
 ### Oynanış
 
