@@ -142,9 +142,6 @@ npm run build
 
 Derleme çıktısı `dist/` klasörüne yazılır; statik bir sunucuya veya GitHub Pages'e deploy edilebilir.
 
-### Ekran Görüntüleri
-
-> Oyunu çalıştırdıktan sonra ekran görüntülerini `docs/screenshots/` klasörüne ekleyebilirsiniz.
 
 ### Lisans
 
@@ -284,10 +281,6 @@ npm run build
 ```
 
 Build output goes to `dist/` and can be deployed to any static host or GitHub Pages.
-
-### Screenshots
-
-> After running the game, you can add screenshots to a `docs/screenshots/` folder.
 
 ### License
 
